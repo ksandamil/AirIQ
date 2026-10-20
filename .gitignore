@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Generated model files - review before committing
+# Uncomment if you do not want to track generated models
+# *.pkl
+# *.joblib
+
+# Large raw datasets - do not commit unless intentionally required
+# data/raw/*.csv
+
+
+# Large trained machine learning models
+backend/model/*.joblib
