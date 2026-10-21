@@ -690,7 +690,19 @@ AirIQ/
 │   └── project_config.py
 │
 └── ...
+
+
 ```
+## 📸 Screenshots
+
+### Air Quality Prediction
+
+![AirIQ Dashboard](screenshots/AirIQ-1.png)
+
+### Station Map 
+
+![Air Quality Prediction](screenshots/AirIQ-2.png)
+
 
 ---
 
